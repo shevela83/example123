@@ -1,0 +1,15 @@
+/Users/denisshevela/examples/example001_/bin/Debug/net7.0/example001_
+/Users/denisshevela/examples/example001_/bin/Debug/net7.0/example001_.deps.json
+/Users/denisshevela/examples/example001_/bin/Debug/net7.0/example001_.runtimeconfig.json
+/Users/denisshevela/examples/example001_/bin/Debug/net7.0/example001_.dll
+/Users/denisshevela/examples/example001_/bin/Debug/net7.0/example001_.pdb
+/Users/denisshevela/examples/example001_/obj/Debug/net7.0/example001_.csproj.AssemblyReference.cache
+/Users/denisshevela/examples/example001_/obj/Debug/net7.0/example001_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisshevela/examples/example001_/obj/Debug/net7.0/example001_.AssemblyInfoInputs.cache
+/Users/denisshevela/examples/example001_/obj/Debug/net7.0/example001_.AssemblyInfo.cs
+/Users/denisshevela/examples/example001_/obj/Debug/net7.0/example001_.csproj.CoreCompileInputs.cache
+/Users/denisshevela/examples/example001_/obj/Debug/net7.0/example001_.dll
+/Users/denisshevela/examples/example001_/obj/Debug/net7.0/refint/example001_.dll
+/Users/denisshevela/examples/example001_/obj/Debug/net7.0/example001_.pdb
+/Users/denisshevela/examples/example001_/obj/Debug/net7.0/example001_.genruntimeconfig.cache
+/Users/denisshevela/examples/example001_/obj/Debug/net7.0/ref/example001_.dll
